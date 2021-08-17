@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/JonasNeumaier/AzureDevOpsTest1/_apis/build/status/nejo1018.pipelines-java?branchName=master)](https://dev.azure.com/JonasNeumaier/AzureDevOpsTest1/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
